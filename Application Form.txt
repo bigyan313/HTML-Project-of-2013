@@ -1,0 +1,139 @@
+<html>
+<head> 
+                                                         
+                                          <p align=center>   <font color="#40FF00" size="7"> EMINEM Fan Club Application Form  </font> <font color="#40FF00" size="3"> &copy; <font> </p> <p align=right> <a href="1.Home Page.html"><input type = "button" value = "Go Back to Home"> </a> </p> <br> <br> <br>  
+ 
+</head>  
+<marquee> <font color= "red" size="5"> We Love EMINEM </marquee> </font> 
+<body background ="table.jpg">
+
+
+<img src="eminem.jpg" height=411 width= 395 align= right>
+<form>
+<font color= "#FFFF00" size="4.5"> First Name: </font></font>  
+<input type = "text"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font color= "#FFFF00" size="4.5">Last Name: </font> 
+<input type = "text">                                                  <br> <br> <br> 
+<font color= "#FFFF00" size="4.5">Password: </font>
+<input type = "password"> 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font color= "#FFFF00" size="4.5"> Re-type Password: </font>
+<input type = "password">                                            <br> <br> <br> 
+<font color= "#FFFF00" size="4.5">Hobbies: </font>
+<input type = "checkbox" = "c1">
+<font color="#FFFFFF" size="3">Movies
+<input type = "checkbox" = "c2">
+<font color="#FFFFFF" size="3">Games
+<input type = "checkbox" = "c3">
+<font color="#FFFFFF" size="3">Travel
+<input type = "checkbox" checked=true name = "c4"> 
+<font color="#FFFFFF" size="3">Others                                              <br> <br> <br> 
+<font color= "#FFFF00" size="4.5"> Gender: </font>
+<input type = "radio" name = "r1"> Male
+<input type = "radio" name = "r1"> Female
+<input type = "radio" name = "r1"> Other 
+                                                                           <br> <br> <br> 
+<font color= "#FFFF00" size="4.5">Date of Birth: </font> 
+<select size = 1>
+<option> 1 </option>
+<option> 2 </option>
+<option> 3 </option>
+<option> 4 </option>
+<option> 5 </option>
+<option> 6 </option>
+<option> 7 </option>
+<option> 8 </option>
+<option> 9 </option>
+<option> 10 </option>
+<option> 11 </option>
+<option> 12 </option>
+<option> 13 </option>
+<option> 14 </option>
+<option> 15 </option>
+<option> 16 </option>
+<option> 17 </option>
+<option> 18 </option>
+<option> 19 </option>
+<option> 20 </option>
+<option> 21</option>
+<option> 22</option>
+<option> 23</option>
+<option> 24</option>
+<option> 25</option>
+<option> 26</option>
+<option> 27</option>
+<option> 28</option>
+<option> 29</option>
+<option> 30</option>
+</select> <font color="#FFFFFF" size="3"> Day 
+<select size = 1>
+<option> Jan </option>
+<option> Feb </option>
+<option> Mar </option>
+<option> Apr </option>
+<option> May </option>
+<option> Jun </option>
+<option> Jul </option>
+<option> Aug </option>
+<option> Sep </option>
+<option> Oct </option>
+<option> Nov </option>
+<option> Dec </option>
+</select> <font color="#FFFFFF" size="3">Month
+<select size = 1>
+<option>2014</option>
+<option>2013</option>
+<option>2012</option>
+<option>2011</option>
+<option>2010</option>
+<option>2009</option>
+<option>2008</option>
+<option>2007</option>
+<option>2006</option>
+<option>2005</option>
+<option>2004</option>
+<option>2003</option>
+</select> Year                                                                         <br><br> <br> <br> 
+<font color= "#FFFF00" size="4.5"> Favourite Person: </font>
+<input type = "radio" name = "r1"> Bill Gates
+<input type = "radio" name = "r1"> EMINEM
+<input type = "radio" name = "r1"> Messi
+<input type = "radio" name = "r1"> Rolando
+<input type = "radio" name = "r1"> Megan Fox
+<input type = "radio" name = "r1"> Stephen Hawkings
+<input type = "radio" name = "r1"> Einstine          <br> <br> <br> 
+<font color= "#FFFF00" size="4.5">Material State: </font>
+<input type = "radio" name = "r1"> Married
+<input type = "radio" name = "r1"> Unmarried
+<input type = "radio" name = "r1"> Engaged
+<input type = "radio" name = "r1"> Divorced <br> <br> <br> 
+<font color= "#FFFF00" size="4.5"> Favourite Game: </font>
+<input type = "radio" name = "r1"> Football
+<input type = "radio" name = "r1"> Basketball
+<input type = "radio" name = "r1"> Video Games 
+<input type = "radio" name = "r1"> Swimming
+<input type = "radio" name = "r1"> Badminton
+<input type = "radio" name = "r1"> Volleyball
+<input type = "radio" checked=true name = "r1"> <input type = "text">  Other           <br> <br> <br> 
+<font color= "#FFFF00" size="4.5">Continent: </font> 
+<select size = 1>
+<option>Asia</option>
+<option>North America</option>
+<option>South America</option>
+<option>Australia</option>
+<option> Africa</option>
+</select>                                                     <br> <br> <br> 
+<font color= "#FFFF00" size="4.5"> Any Comment: </font>  <br> <br> <br>  
+<textarea rows= 12 cols= 100>
+</textarea> <br> <br> <br>  
+
+<a href="s.jpg" target="_tab"><input type = "button" value = "Submit"></a> 
+
+<a href="mp3" target="_tab"><input type = "button" value = "Listen to Eminem (MP3) (MP4)"></a> 
+
+ <p align=left> <a href="1.Home Page.html"><input type = "button" value = "Cancel"> </a>
+
+
+
+
+</body>
+<html>

@@ -1,0 +1,73 @@
+<html> 
+<head> <p align= center> <img src="h.png" align= center> <font color="#fffff3" size="2.5">&copy;</font> </p>
+ </head> 
+<body background = "b.jpg">
+ <img src="me.jpg" height= 235 width= 171 align= right>  
+<table border=0 width=30%>
+<TR> <TH COLSPAN=2> <font color="#fffff3" size= 5> My Introduction </font> </TH>
+</TR> 
+<TR>
+<TD> <font color="#fffff3">Name:</font> </TD>
+<TD> <font color="#fffff3">Bigyan Adhikari</font> </TD>
+</TR>
+<tr>
+<TD> <font color="#fffff3"> DOB: </font> </TD>
+<TD> <font color="#fffff3"> 1998 July 29</font> </TD>
+</tr>
+<tr>
+<TD> <font color="#fffff3">Class: </font> </TD>
+<TD> <font color="#fffff3"> XI</font> </TD>
+</tr>
+<tr>
+<TD> <font color="#fffff3">Studies:</font> </TD>
+<TD> <font color="#fffff3">Science(HSEB)</font> </TD>
+</tr>
+<tr>
+<TD> <font color="#fffff3">College: </font> </TD>
+<TD> <font color="#fffff3"> Trinity International College</font> </TD>
+</tr>
+<tr>
+<TD> <font color="#fffff3"> Country:</font> </TD>
+<TD> <font color="#fffff3"> Nepal</font> </TD>             
+</tr>
+<tr>
+<TD> <font color="#fffff3"> E-mail: </font> </TD>
+
+
+<TD>  <font color="#fffff3">bigyan313@gmail.com <a href="mailto:bigyan313@gmail.com"><font color="#fffff3"> Email Me </font></a>  </TD> <br> 
+</tr>  
+<tr> <TD> <font color="#fffff3"> </tr>
+<tr> <TD> <font color="#fffff3"> </tr>
+<tr> <TD> <font color="#fffff3"> </tr>
+<tr> <TD> <font color="#fffff3"> </tr>
+<tr> <TD> <font color="#fffff3"> </tr>
+<tr> <TD> <font color="#fffff3"> </tr>
+<tr> <TD> <font color="#fffff3"> </tr>
+<tr> <TD> <font color="#fffff3"> </tr>
+<tr> <TD> <font color="#fffff3"> </tr>
+<tr>
+<TR> <th> <font color="#fffff3" size= 5>My Assingments </font> </TH>
+</tr>
+<tr>
+<TD> <font color="#fffff3"> <a href="list.html" target="_tab"><input type = "button" value = "List"></a></font> </TD>
+</tr>
+<tr> <TD> <font color="#fffff3"> <a href="table.html" target="_tab"><input type = "button" value = "Tables"></a> </font> </TD> </tr>
+<tr> <TD> <font color="#fffff3"> <a href="Application Form.html" target="_tab"><input type = "button" value = "Application Form"></a> </font> </TD>
+</tr>
+</font>
+<table border=0 width=8% bgcolor="000000"align="center">
+<tr>
+<TH COLSPAN=5> <font color="#40FF00" size = 5> <marquee> Extras </marquee> </font> </TH> </tr> <tr>
+<TH COLSPAN=5> <font color="#00ffff" size = 2> <marquee> Click on the Pictures and Explore More. Enjoy!!! </marquee> </font> </TH> </tr> <tr>
+<td><a href="p.html"  target="_tab">
+<img src="p.png" width="100" height="80"></a>
+</td>
+<td> <a href="m.html"  target="_tab">
+<img src="m.png" width="100" height="80"></a>
+</td>
+<td> <a href="v.html"  target="_tab">
+<img src="v.png" width="100" height="80"></a>
+</td> 
+ </tr>
+</body>
+</html>
